@@ -1,0 +1,19 @@
+.movieImage {
+  max-width: 100%;
+  height: 320px !important;
+}
+
+.listMovieColDiv {
+  height: 450px;
+  max-height: 450px;
+  cursor: pointer;
+}
+
+.card-title {
+  font-size: 15px;
+
+}
+
+.detailImage {
+  height: 450px;
+}
